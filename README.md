@@ -1,7 +1,6 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
-
+![alt text](http://www.mathemania.com/wp-content/uploads/2015/04/standard-form-quadratic-equation.jpg)
 
 # Example of script launch on Python 3.5:
 
